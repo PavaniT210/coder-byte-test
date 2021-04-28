@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: test-node
+  repository: nginx-ingress
   tag: latest
   pullPolicy: IfNotPresent
 
